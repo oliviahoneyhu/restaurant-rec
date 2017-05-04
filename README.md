@@ -1,4 +1,4 @@
-# Fast Matrix Factorization for Restaurant Recommender
+# Fast Matrix Factorization for Restaurant Recommendation
 
 
 ### This is a course project of CSCE670 Information Storage and Retrieval.
